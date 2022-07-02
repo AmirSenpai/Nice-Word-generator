@@ -2,11 +2,7 @@
 
 ---
 
----
-
 #### ~_this web-app is created by "ITSDEKUSENPAI©"_
-
----
 
 ---
 
@@ -25,13 +21,9 @@ your daily nice word of the day.</p>
 
 ---
 
----
-
 ## Last but not least:
 
 <p style="color:cyan; font-weight:100;">~This project is completely open source. you can use it anywhere but <b style="font-weight:600;">give me a shutout</b> before using it :)</p>
-
----
 
 ---
 
